@@ -1,0 +1,2 @@
+Perso1 |END personnage |END |END FOR 12 SAG 12 DEX 12 INT 12 
+Perso2 |END Personnage2 |END |END INT 15 DEX 15 SAG 15 FOR 15 

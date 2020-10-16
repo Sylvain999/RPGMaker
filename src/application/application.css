@@ -1,0 +1,29 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.text-field {
+    -fx-prompt-text-fill: gray;
+}
+
+
+.creer-perso-box {
+	-fx-padding : 0 20 0 20;
+	-fx-alignment: top-center;
+}
+
+.creer-perso-box GridPane{
+	-fx-hgap : 20px;
+}
+
+.creer-perso-box GridPane{
+	-fx-alignment: center;
+}
+
+.afficher-perso-box {
+	-fx-alignment: top-center;
+	-fx-padding : 10px;
+}
+
+.afficher-perso-box > Label{
+	-fx-font-weight: bold;
+	-fx-font-size: 20px;
+}
